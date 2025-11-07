@@ -1,2 +1,2 @@
 # Dev_Portfolio
-Repository to showcase projects.
+Repository for website to showcase projects.
